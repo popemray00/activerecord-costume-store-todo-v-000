@@ -1,2 +1,2 @@
-class Costume < ActiveRecord::Base[4.2]
+class Costume < ActiveRecord::Base
 end
